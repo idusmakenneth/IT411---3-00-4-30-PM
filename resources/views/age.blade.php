@@ -1,0 +1,1 @@
+<h2> Your Age Is : {{$age}}</h2>
